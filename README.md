@@ -57,18 +57,19 @@ NSA的全球采集点，基于五眼联盟扩大到30多个第三方国家情报
 ## ZoomEYE应用场景
 
 ### 攻击视角
-开源情报OSINT
-攻防演练HVV（红队Red Team）
-漏洞预警到ZoomEye dork（统计和排查数据)攻击者获取情报
-提交漏洞到SRC
-等...
+
+1.开源情报OSINT
+2.攻防演练HVV（红队Red Team）
+3.漏洞预警到ZoomEye dork（统计和排查数据)攻击者获取情报
+4.提交漏洞到SRC
+5.等...
 
 ### 防御视角
-暗资产排查（未统计和排查到的资产）
-攻防演练HVV（蓝队Blue Team）
-漏洞预警到ZoomEye dork（统计和排查数据)防御者获取情报
-C&C（命令与控制服务器）排查如cobalt strike后渗透工具
-等...
+1.暗资产排查（未统计和排查到的资产）
+2.攻防演练HVV（蓝队Blue Team）
+3.漏洞预警到ZoomEye dork（统计和排查数据)防御者获取情报
+4.C&C（命令与控制服务器）排查如cobalt strike后渗透工具
+5.等...
 
 参考链接：https://paper.seebug.org/1629/
 
