@@ -1,4 +1,4 @@
-# Zoomeye 网空测绘知识库
+# ZoomEye 网空测绘知识库
 
 <img width="200" height="200" src="https://github.com/nday-ldgz/zoomeye-Hacking-TTP/blob/main/img/01.jpg"/>
 
@@ -63,7 +63,7 @@ https://github.com/nday-ldgz/zoomeye-Hacking-TTP/blob/main/pdf/20140914-spiegel-
 
 参考链接：https://twthu.co/?p=378
 
-## ZoomEYE应用场景
+## ZoomEye应用场景
 
 通过ZoomEye dork挖掘的数据可以使用在攻击与防守场景里面。
 
