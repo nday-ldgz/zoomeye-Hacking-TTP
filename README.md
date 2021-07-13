@@ -102,15 +102,15 @@ https://github.com/nday-ldgz/zoomeye-Hacking-TTP/blob/main/pdf/20140914-spiegel-
 基础功能对比表：
 | ID| 注册用户 | 高级用户 | VIP用户| 
 | --- | --- | --- |--- |
-| 1 | icon检索 | List all new or modified files |List all new or modified files |
-| 2 | 文件检索 | Show file differences that haven't been staged |List all new or modified files |
-| 3 | 域名关联 | Show file differences that haven't been staged |List all new or modified files |
-| 4 | 数据订阅 | Show file differences that haven't been staged |List all new or modified files |
-| 5 | 分词测试 | Show file differences that haven't been staged |List all new or modified files |
-| 6 | 恶意IP标记 | Show file differences that haven't been staged |List all new or modified files |
-| 7 | 规则收藏 | Show file differences that haven't been staged |List all new or modified files |
-| 8 | 302 跳转识别 | Show file differences that haven't been staged |List all new or modified files |
-| 9 | 快照功能 | Show file differences that haven't been staged |List all new or modified files |
+| 1 | icon检索 | icon检索 |icon检索 |
+| 2 | 文件检索 |  文件检索 | 文件检索 |
+| 3 | 域名关联 | 域名关联 |L域名关联 |
+| 4 | 数据订阅 |  数据订阅 | 数据订阅 |
+| 5 | 分词测试 |  分词测试 |分词测试 |
+| 6 | 恶意IP标记 | 恶意IP标记 |恶意IP标记 |
+| 7 | 规则收藏 | 规则收藏 |规则收藏 |
+| 8 | 302 跳转识别 |302 跳转识别 |302 跳转识别 |
+| 9 | 快照功能 | 快照功能 |快照功能 |
 | 10 | - | Show file differences that haven't been staged |List all new or modified files |
 | 11 | - | Show file differences that haven't been staged |List all new or modified files |
 | 12 | - | Show file differences that haven't been staged |List all new or modified files |
