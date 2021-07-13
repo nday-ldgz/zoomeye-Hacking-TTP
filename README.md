@@ -99,12 +99,23 @@ https://github.com/nday-ldgz/zoomeye-Hacking-TTP/blob/main/pdf/20140914-spiegel-
 
 价格表：https://www.zoomeye.org/business
 
-功能对比
+功能对比表：
 | ID| 注册用户 | 高级用户 | VIP用户| 
 | --- | --- | --- |--- |
-| 2 | git status | List all new or modified files |List all new or modified files |
+| 1 | git status | List all new or modified files |List all new or modified files |
+| 2 | git diff | Show file differences that haven't been staged |List all new or modified files |
 | 3 | git diff | Show file differences that haven't been staged |List all new or modified files |
-
-
-
-
+| 4 | git diff | Show file differences that haven't been staged |List all new or modified files |
+| 5 | git diff | Show file differences that haven't been staged |List all new or modified files |
+| 6 | git diff | Show file differences that haven't been staged |List all new or modified files |
+| 7 | git diff | Show file differences that haven't been staged |List all new or modified files |
+| 8 | git diff | Show file differences that haven't been staged |List all new or modified files |
+| 9 | git diff | Show file differences that haven't been staged |List all new or modified files |
+| 10| git diff | Show file differences that haven't been staged |List all new or modified files |
+| 11| git diff | Show file differences that haven't been staged |List all new or modified files |
+| 12| git diff | Show file differences that haven't been staged |List all new or modified files |
+| 7 | git diff | Show file differences that haven't been staged |List all new or modified files |
+| 8 | git diff | Show file differences that haven't been staged |List all new or modified files |
+| 6 | git diff | Show file differences that haven't been staged |List all new or modified files |
+| 7 | git diff | Show file differences that haven't been staged |List all new or modified files |
+| 8 | git diff | Show file differences that haven't been staged |List all new or modified files |
