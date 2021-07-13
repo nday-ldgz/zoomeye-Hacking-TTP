@@ -99,6 +99,12 @@ https://github.com/nday-ldgz/zoomeye-Hacking-TTP/blob/main/pdf/20140914-spiegel-
 
 价格表：https://www.zoomeye.org/business
 
+价格对比：
+| ID| 注册用户 | 高级用户 | VIP用户| 
+| --- | --- | --- |--- |
+| 1 | - | 500/月 |1000/月 |
+
+
 数据消费功能对比：
 
 | ID| 注册用户 | 高级用户 | VIP用户| 
