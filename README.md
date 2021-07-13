@@ -101,7 +101,7 @@ https://github.com/nday-ldgz/zoomeye-Hacking-TTP/blob/main/pdf/20140914-spiegel-
 
 功能对比
 | ID| 注册用户 | 高级用户 | VIP用户| 
-| 1 | --- | --- |--- |
+| --- | --- | --- |--- |
 | 2 | git status | List all new or modified files |List all new or modified files |
 | 3 | git diff | Show file differences that haven't been staged |List all new or modified files |
 
