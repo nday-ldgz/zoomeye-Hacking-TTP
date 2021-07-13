@@ -1,6 +1,6 @@
 # Zoomeye 网空测绘知识库
 
-[!image](https://github.com/nday-ldgz/zoomeye-Hacking-TTP/blob/main/img/01.jpg)
+![image](https://github.com/nday-ldgz/zoomeye-Hacking-TTP/blob/main/img/01.jpg)
 
 ZoomEye是一款针对网络空间的搜索引擎，收录了互联网空间中的设备、网站及其使用的服务或组件等信息。
 
