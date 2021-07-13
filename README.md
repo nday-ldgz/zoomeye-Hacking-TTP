@@ -6,7 +6,7 @@ ZoomEye 拥有两大探测引擎：Xmap 和 Wmap，分别针对网络空间中�
 
 虽然被称为 “黑客友好” 的搜索引擎，但ZoomEye 并不会主动对网络设备、网站发起攻击，收录的数据也仅用于安全研究。ZoomEye更像是互联网空间的一张航海图。ZoomEye兼具信息收集的功能与漏洞信息库的资源，对于广大的渗透测试爱好者来说以一件非常不错的利器。
 
-链接：https://mp.weixin.qq.com/s/be5fnKg2qWTEogbd2kgsmQ
+链接：https://www.freebuf.com/sectool/163782.html
 
 ## 新闻稿
 
