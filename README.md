@@ -8,7 +8,7 @@ ZoomEye 拥有两大探测引擎：Xmap 和 Wmap，分别针对网络空间中�
 
 链接：https://www.freebuf.com/sectool/163782.html
 
-## 新闻稿
+## 国外新闻稿
 
 NSA/CSS与藏宝图计划
 
