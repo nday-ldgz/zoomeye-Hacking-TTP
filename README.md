@@ -104,15 +104,17 @@ https://github.com/nday-ldgz/zoomeye-Hacking-TTP/blob/main/pdf/20140914-spiegel-
 | --- | --- | --- |--- |
 | 1 | icon检索 | icon检索 |icon检索 |
 | 2 | 文件检索 |  文件检索 | 文件检索 |
-| 3 | 域名关联 | 域名关联 |L域名关联 |
+| 3 | 域名关联 | 域名关联 | 域名关联 |
 | 4 | 数据订阅 |  数据订阅 | 数据订阅 |
 | 5 | 分词测试 |  分词测试 |分词测试 |
 | 6 | 恶意IP标记 | 恶意IP标记 |恶意IP标记 |
 | 7 | 规则收藏 | 规则收藏 |规则收藏 |
 | 8 | 302 跳转识别 |302 跳转识别 |302 跳转识别 |
 | 9 | 快照功能 | 快照功能 |快照功能 |
-| 10 | - | Show file differences that haven't been staged |List all new or modified files |
-| 11 | - | Show file differences that haven't been staged |List all new or modified files |
-| 12 | - | Show file differences that haven't been staged |List all new or modified files |
-| 13 | - | Show file differences that haven't been staged |List all new or modified files |
-| 14 | - | Show file differences that haven't been staged |List all new or modified files |
+| 10 | - | 行业识别 |行业识别 |
+| 11 | - | 数据下载 |数据下载 |
+| 12 | - | 邮件咨询 |邮件咨询 |
+| 13 | - | IPV6 |IPV6  |
+| 14 | - | 历史数据API |历史数据API |
+| 15 | - | 高精地理位置（10数据额度/次） | 高精地理位置|
+| 16 | - | - | 蜜罐识别|
