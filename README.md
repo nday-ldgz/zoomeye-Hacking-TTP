@@ -97,6 +97,13 @@ https://github.com/nday-ldgz/zoomeye-Hacking-TTP/blob/main/pdf/20140914-spiegel-
 
 ## ZoomEye价格体系(数据消费)
 
+价格表：https://www.zoomeye.org/business
+
+| 注册用户 | 高级用户 | VIP用户| 
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
 
 
 
