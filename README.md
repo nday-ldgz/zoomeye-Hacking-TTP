@@ -97,7 +97,6 @@ https://github.com/nday-ldgz/zoomeye-Hacking-TTP/blob/main/pdf/20140914-spiegel-
 
 ## ZoomEye价格体系(数据消费)
 
-价格表：https://www.zoomeye.org/business
 
 价格对比：
 | ID| 注册用户 | 高级用户 | VIP用户| 
@@ -134,3 +133,5 @@ https://github.com/nday-ldgz/zoomeye-Hacking-TTP/blob/main/pdf/20140914-spiegel-
 | 14 | - | 历史数据API |历史数据API |
 | 15 | - | 高精地理位置（10数据额度/次） | 高精地理位置|
 | 16 | - | - | 蜜罐识别|
+
+参考链接：https://www.zoomeye.org/business
