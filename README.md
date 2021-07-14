@@ -99,6 +99,9 @@ https://github.com/nday-ldgz/zoomeye-Hacking-TTP/blob/main/pdf/20140914-spiegel-
 
 ## ZoomEye价格体系(数据消费)
 
+ZoomEye对于注册用户开放的数据权限比同类产品更多，web查询结果展示400条，api数据额度1w/月，基本满足对数据量需求不大的用户进行，攻防上的数据挖掘对挖掘的数据信息进行判断利用。
+
+
 
 价格对比：
 | ID| 注册用户 | 高级用户 | VIP用户| 
