@@ -20,12 +20,14 @@ ZoomEye 拥有两大探测引擎：Xmap 和 Wmap，分别针对网络空间中�
 
 ZoomEye入选2021年安全研究者的互联网数据搜索引擎（Internet Data Search Engine for Security Researchers）名单！中国唯一！
 
+链接：https://geekflare.com/search-engine-for-security/
+
 
 ## 微信Wechat交流群（请扫描下面微信二维码、备注信息Zoomeye）
 
 
 
-链接：https://geekflare.com/search-engine-for-security/
+
 
 ## 它山之石 国外新闻稿
 
